@@ -25,13 +25,13 @@ You only need 1-2 minutes to install this magento extension.
 2. Open the file "app/design/frontend/default/default/catalog/product/list.phtml"
 
 search for
+
 <pre>
 <code>
  &lt;img src="<?php echo $this->helper('catalog/image')->init($_product, 'small_image')->resize(135); ?>"
- width="135" height="135" alt="<?php echo $this->stripTags($this->getImageLabel($_product,      'small_image'), null, true) ?>" /&gt;
+ width="135" height="135" alt="<?php echo $this->stripTags($this->getImageLabel($_product, 'small_image'), null, true) ?>" /&gt;
 </code>
 </pre>
-
 
 replace with
 <pre>
