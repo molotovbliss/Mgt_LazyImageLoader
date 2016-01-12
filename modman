@@ -12,10 +12,10 @@ app/code/community/Mgt/Mgt/Base/etc/system.xml app/code/community/Mgt/Mgt/Base/e
 app/code/community/Mgt/Mgt/Base/Helper/Data.php app/code/community/Mgt/Mgt/Base/Helper/Data.php
 app/code/community/Mgt/Mgt/Base/controllers/Adminhtml/MgtController.php app/code/community/Mgt/Mgt/Base/controllers/Adminhtml/MgtController.php
 app/code/community/Mgt/Mgt/Base/sql/mgt_base_setup/mysql4-install-1.0.0.0.php app/code/community/Mgt/Mgt/Base/sql/mgt_base_setup/mysql4-install-1.0.0.0.php
-app/design/frontend/default/default/layout/mgt_lazy_image_loader.xml app/design/frontend/default/default/layout/mgt_lazy_image_loader.xml
+app/design/frontend/base/default/layout/mgt_lazy_image_loader.xml app/design/frontend/base/default/layout/mgt_lazy_image_loader.xml
 docs/LICENSE.txt docs/LICENSE.txt
 docs/Installation.pdf docs/Installation.pdf
-skin/frontend/default/default/js/mgt_lazy_image_loader/lazy-image-loader.js skin/frontend/default/default/js/mgt_lazy_image_loader/lazy-image-loader.js
-skin/frontend/default/default/js/mgt_lazy_image_loader/jquery-1.7.2.min.js skin/frontend/default/default/js/mgt_lazy_image_loader/jquery-1.7.2.min.js
-skin/frontend/default/default/js/mgt_lazy_image_loader/common.js skin/frontend/default/default/js/mgt_lazy_image_loader/common.js
-skin/frontend/default/default/images/mgt_lazy_image_loader/loader.gif skin/frontend/default/default/images/mgt_lazy_image_loader/loader.gif
+skin/frontend/base/default/js/mgt_lazy_image_loader/lazy-image-loader.js skin/frontend/base/default/js/mgt_lazy_image_loader/lazy-image-loader.js
+skin/frontend/base/default/js/mgt_lazy_image_loader/jquery-1.7.2.min.js skin/frontend/base/default/js/mgt_lazy_image_loader/jquery-1.7.2.min.js
+skin/frontend/base/default/js/mgt_lazy_image_loader/common.js skin/frontend/base/default/js/mgt_lazy_image_loader/common.js
+skin/frontend/base/default/images/mgt_lazy_image_loader/loader.gif skin/frontend/base/default/images/mgt_lazy_image_loader/loader.gif
